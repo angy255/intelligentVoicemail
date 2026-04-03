@@ -24,8 +24,8 @@ This is not an audio problem. It's a workflow and information problem.
 
 ## Demo
 
-![Alt text](/intelligentVoicemail/images/intelligentVM.png)
-![Alt text](/intelligentVoicemail/images/detailsVM.png)
+![intelligentVM screenshot ](images/intelligentVM.png)
+![detailsVM screenshot](images/detailsVM.png)
 
 ## How it works
 
