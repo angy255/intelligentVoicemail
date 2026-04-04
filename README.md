@@ -42,7 +42,7 @@ Staff never need to listen to a recording to understand what a call is about.
 
 ## Features
 
-- **Inbox view** — compact, sortable rows ordered by urgency then time received
+- **Inbox view** — compact rows ordered by urgency then time received
 - **Morning summary bar** — total unreviewed, HIGH urgency count, GP-flagged count at a glance
 - **Expanded item panel** — full structured summary, key details, suggested action, collapsible transcript
 - **Action management** — status tracking, staff assignment, notes, GP flag, snooze
@@ -65,7 +65,7 @@ The prototype uses 10 synthetic voicemails representing realistic clinic scenari
 
 - 3 HIGH urgency (chest symptoms, child with fever, psychiatric medication outage)
 - 4 MEDIUM (appointment requests, referral and script follow-ups)
-- 2 LOW (general enquiries, admin questions)
+- 3 LOW (general enquiries, test result and admin questions)
 - 1 ambiguous call with a confidence warning
 - 1 repeat caller appearing twice within 24h
 
